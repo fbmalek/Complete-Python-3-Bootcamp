@@ -1,0 +1,12 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.ipynb_checkpoints/
